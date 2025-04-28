@@ -686,13 +686,49 @@ class Home extends Component {
                                 <td>Call</td>
                             </tr>
                             <tr>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
+                                <td>15</td>
+                                <td>HP MFP M176, 176N, M177, 177FW     (Price 130Y 7,900/-, 130M 7,900, 130C 7,900/-, 130B 8,000/-)	</td>
+                                <td>130A/350 Full Set</td>
+                                <td>4,500</td>
+                                <td>5,000</td>
+                                <td>5,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>HP CP1525n, CP1525nw, MFP CM1415fn, CM1415fnw</td>
+                                <td>128A Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>HP CP1215, CP1515n, CP1518ni, MFP CM1312, CM1312nfi	</td>
+                                <td>125A Full Set	</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>HP M254dw, M254nw, MFP M280nw, M281fdn,M281fdw, LBP 623cdw  (BK 9,000/-, C 9,500/-,Y 9,500/-, M 9,500/-)</td>
+                                <td>203A/054 Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>HP 500, M551n, M551dn, M551xh, MFP M575dn, M575f, M575c, M570dn, M570dw (BK 12,000/-, C 18,200/-, Y 18,200/-, M 18,200/-)</td>
+                                <td>507A Full Set</td>
+                                <td>12,000</td>
+                                <td>15,000</td>
+                                <td>22,000</td>
+                                <td>Call</td>
                             </tr>
                         </tbody>
                         {/* CANON and HP Laser Printer Model*/}
