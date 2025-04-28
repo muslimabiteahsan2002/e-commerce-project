@@ -667,6 +667,15 @@ class Home extends Component {
                                 <td>20,000</td>
                                 <td>1,00,500</td>
                             </tr>
+                            <tr>
+                                <td>13</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
                         </tbody>
                         {/* CANON and HP Laser Printer Model*/}
                     </Table>
