@@ -658,7 +658,15 @@ class Home extends Component {
                                 <td>9,500</td>
                                 <td>Call</td>
                             </tr>
-                            
+                            <tr>
+                                <td>12</td>
+                                <td>HP M500, M551, M553n, 570, M575 ( Price 508Y 14,900/-, 508M 14,900/-, 508C 14,900/-, 508B 15,000/-)</td>
+                                <td>508A Full Set</td>
+                                <td>16,000</td>
+                                <td>18,000</td>
+                                <td>20,000</td>
+                                <td>1,00,500</td>
+                            </tr>
                         </tbody>
                         {/* CANON and HP Laser Printer Model*/}
                     </Table>
