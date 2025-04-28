@@ -680,6 +680,15 @@ class Home extends Component {
                                 <td>14</td>
                                 <td>HP CP5225dn   ( Price 307Y 27,500/-, 307M 27,500/-,307C 27,500/-,  307B 28,000/-)</td>
                                 <td>307A Full Set</td>
+                                <td>23,000</td>
+                                <td>24,000</td>
+                                <td>26,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
                                 <td></td>
                                 <td></td>
                                 <td></td>
