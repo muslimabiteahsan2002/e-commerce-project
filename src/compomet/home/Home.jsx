@@ -650,7 +650,15 @@ class Home extends Component {
                                 <td>Call</td>
                             </tr>
                             <tr>
-                                
+                                <tr>
+                                    <td>11</td>
+                                    <td>HP Color LaserJet MFP M477fdn, M477fdw,  M477fnw,M452DN,  M452dw,  M452nw, MFP M377dw (Price 410Y 9,600/-, 410M 9,600/-, 410C 9,600/-, 410B 7,300/-)</td>
+                                    <td>CF 410A  Full Set</td>
+                                    <td>7,500</td>
+                                    <td>8,000</td>
+                                    <td>9,500</td>
+                                    <td>Call</td>
+                                </tr>
                             </tr>
                         </tbody>
                         {/* CANON and HP Laser Printer Model */}
