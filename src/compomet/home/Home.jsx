@@ -730,6 +730,24 @@ class Home extends Component {
                                 <td>22,000</td>
                                 <td>Call</td>
                             </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>Cano MF 643Cdn</td>
+                                <td>054 Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>HP M155a, MFP M182n, MFP M183FW   (BK 4,500/-, C 5,000/-, M 5000/-, Y 5,000/-)</td>
+                                <td>215A Set (No Chip)</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>29,0000</td>
+                            </tr>
                         </tbody>
                         {/* CANON and HP Laser Printer Model*/}
                     </Table>
