@@ -748,8 +748,423 @@ class Home extends Component {
                                 <td>8,500</td>
                                 <td>29,0000</td>
                             </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>HP Color LaserJet Pro M255dw, M282, M283fdw</td>
+                                <td>207A (No Chip)</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>HP Color LaserJet Pro M255dw, M282, M283fdw</td>
+                                <td>206A (No Chip)</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>38,300</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>HP Color LaserJet M455dn, M480f, M454dn, M454dw,M479dw, M479fdn, M479fdw, M479fnw</td>
+                                <td>415A/2030A (No Chip)</td>
+                                <td>7,500</td>
+                                <td>8,500</td>
+                                <td>9,500</td>
+                                <td>Call</td>
+                            </tr>
                         </tbody>
                         {/* CANON and HP Laser Printer Model*/}
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>CANON Laser Printer Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>LBP-1210, 1200, 1220, 3300, 3380</td>
+                                    <td>EP- 25/15A</td>
+                                    <td>800</td>
+                                    <td>1,000</td>
+                                    <td>1,200</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>2</td>
+                                    <td>L200, 240, 250, 260i, 280, 290, 350, 360</td>
+                                    <td>FX-3</td>
+                                    <td>1,100</td>
+                                    <td>1,300</td>
+                                    <td>1,500</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>LBP- 3100, 3150, 3050</td>
+                                    <td>312/ 35A</td>
+                                    <td>800</td>
+                                    <td>900</td>
+                                    <td>1,100</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>LBP- 1320, 1160, 3390, 3392	</td>
+                                    <td>308</td>
+                                    <td>1,000</td>
+                                    <td>1,200</td>
+                                    <td>1,400</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>5</td>
+                                    <td>P1005, P1006, P1100, P1102, P1102W, P1503, P1506, M1132, LBP-6000, 6030, 6200, 3018, 3010, M1214</td>
+                                    <td>325/85A</td>
+                                    <td>700</td>
+                                    <td>900</td>
+                                    <td>1,000</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>LBP- 6750dn, p3015, 3015</td>
+                                    <td>324/55A</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>2,500</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>LBP- 3500, 3900, 3950, 5200</td>
+                                    <td>309/16A</td>
+                                    <td>2,500</td>
+                                    <td>2,800</td>
+                                    <td>3,000</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>LBP – 3410, 3460, 2400, 2410, 2420, 2430</td>
+                                    <td>310/11A</td>
+                                    <td>1,500</td>
+                                    <td>1,700</td>
+                                    <td>2,100</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>MF – 4410, 4420, 4430, 4450, 4570, 4580, D520, 550</td>
+                                    <td>328</td>
+                                    <td>700</td>
+                                    <td>900</td>
+                                    <td>1,100</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>LBP – 3370, p2015, p2015d</td>
+                                    <td>308/315/508/515/708/49A/53A</td>
+                                    <td>1,000</td>
+                                    <td>1,200</td>
+                                    <td>1,400</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>11</td>
+                                    <td>LBP – 2900, 3000</td>
+                                    <td>303</td>
+                                    <td>700</td>
+                                    <td>900</td>
+                                    <td>1,100</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>12</td>
+                                    <td>LBP – 6650dn, MF 5870dn, 5980dw, 6180dw, 6300dn, 6680x, 251dw, 253x, 416dw</td>
+                                    <td>119/319/719/05A/80A</td>
+                                    <td>950</td>
+                                    <td>1,100</td>
+                                    <td>1,400</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>13</td>
+                                    <td>LBP – 6200D, 6230DN [326X Price 1200/-]</td>
+                                    <td>326/78A</td>
+                                    <td>700</td>
+                                    <td>900</td>
+                                    <td>1,000</td>
+                                    <td>4,000</td>
+                                </tr>
+                                <tr>
+                                    <td>14</td>
+                                    <td>LBP – L100, 120, 140, 160, 230, MF-4000</td>
+                                    <td>FX-10</td>
+                                    <td>700</td>
+                                    <td>900</td>
+                                    <td>1,100</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>15</td>
+                                    <td>LBP – 800, 810, 1110, 1120, 3200</td>
+                                    <td>EP-22/92A</td>
+                                    <td>900</td>
+                                    <td>1,200</td>
+                                    <td>1,500</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>16</td>
+                                    <td>LBP – 312x</td>
+                                    <td>041</td>
+                                    <td>1,600</td>
+                                    <td>1,800</td>
+                                    <td>2,000</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>17</td>
+                                    <td>HP M202n, M201n, M201dw, M201d, MFP M226dn,M226dw, M225dn, M225dw, M125a, M125nw, M127fn,M127fp, M127fw, M127fs, Canon MF249dw, MF246dn,MF244dw, MF237w, MF235, MF232w, MF229dw, MF226dn, MF217w, MF215, MF212w, MF22, LBP-151dn, LBP151dw</td>
+                                    <td>337/83A</td>
+                                    <td>800</td>
+                                    <td>1,000</td>
+                                    <td>1,200</td>
+                                    <td>7,000</td>
+                                </tr>
+                                <tr>
+                                    <td>18</td>
+                                    <td>LBP 7100Cn, 7110C, MF 8210Cn, MF 8280Cw, MF 6280Cw,MF 621C, 623C, 624C, 626C, 628C, 8230C, 8240C, 8250C,8280C  (Black 6,900/-)</td>
+                                    <td>331/131A (Full Set)</td>
+                                    <td>7500</td>
+                                    <td>8000</td>
+                                    <td>8500</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>19</td>
+                                    <td>LBP325dn LBP320 MF540</td>
+                                    <td>056</td>
+                                    <td>1650</td>
+                                    <td>8000</td>
+                                    <td>8500</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>20</td>
+                                    <td>LBP214dw, LBP210 , MF420</td>
+                                    <td>052</td>
+                                    <td>1200</td>
+                                    <td>1400</td>
+                                    <td>1800</td>
+                                    <td>15600</td>
+                                </tr>
+                                <tr>
+                                    <td>21</td>
+                                    <td>ImageCLASS LBP8780x, LBP8100n</td>
+                                    <td>333</td>
+                                    <td>3000</td>
+                                    <td>3400</td>
+                                    <td>3800</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>22</td>
+                                    <td>Canon LBP841cdn</td>
+                                    <td>335e</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>23</td>
+                                    <td>Canon LBP220 Series,Canon LBP230 Series,Canon MF440 Series,Canon MF450</td>
+                                    <td>057  ( No Chip )</td>
+                                    <td>30000</td>
+                                    <td>3,400</td>
+                                    <td>3,800</td>
+                                    <td>28,000</td>
+                                </tr>
+                                <tr>
+                                    <td>24</td>
+                                    <td>Canon imageCLASS LBP121dn, LBP122dw, MF271dn, MF272dw, MF274dn, MF275dw Printer.</td>
+                                    <td>071 (With Chip)</td>
+                                    <td>1,600</td>
+                                    <td>1,800</td>
+                                    <td>2,000</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>25</td>
+                                    <td>Canon imageCLASS LBP121dn, LBP122dw, MF271dn, MF272dw, MF274dn, MF275dw Printer.</td>
+                                    <td>071 (No Chip)</td>
+                                    <td>1,200</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>Call</td>
+                                </tr>
+                                <tr>
+                                    <td>26</td>
+                                    <td>Canon MF465dw, MF462dw, LBP247dw, and LBP246dw laser printers</td>
+                                    <td>070 (No Chip)</td>
+                                    <td>N/A</td>
+                                    <td>1,500</td>
+                                    <td>1,800</td>
+                                    <td>Call</td>
+                                </tr>
+                            </tbody>
+                        {/* CANON Laser Printer Model */}
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>SAMSUNG Laser Printer Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>M-1660, 1665, 1666, 1667, 1670, 1671, 1675, ML-1676, 1677,1856, 1860, 1866, 1867, SCX-3200, 3202, 3505, 3205W, 3207</td>
+                                <td>ML-1043</td>
+                                <td>1,200</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>MLT-D305L Toner For Samsung ML-3750 3750N 3750ND 3753 3753ND Series Printer</td>
+                                <td>MLT-D305L</td>
+                                <td>2,500</td>
+                                <td>2,700</td>
+                                <td>2,900</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>ML-1911, 2526, 2581, SCX-4601, 4601, 4623, SF-651, 651P</td>
+                                <td>ML-1053</td>
+                                <td>1,300</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>ML- 3470, 3471</td>
+                                <td>ML-3470</td>
+                                <td>1,500</td>
+                                <td>1,500</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>SCX- 4321, 4521</td>
+                                <td>SCX-4521F</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>ML- 3310, 3312, 3710, 3712nd, Scx4823, 4833</td>
+                                <td>ML-205L</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>ML-1610, 2010, 2010R, 2510, 2570, 2571n</td>
+                                <td>ML-2010</td>
+                                <td>1,100</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>ML-1640, 1641, 2240, 2241</td>
+                                <td>ML-108S</td>
+                                <td>1,300</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>ML- 28500d, 2851nd</td>
+                                <td>ML-2850</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>ML- 1410, 1500, 1510, 1710, 1740, 1720, 1755</td>
+                                <td>ML-1710</td>
+                                <td>1,400</td>
+                                <td>1,700</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>SF- 560R, 565RR, 565PCR</td>
+                                <td>SF D560RA</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>ML- 4050, 4580, 4551</td>
+                                <td>ML-4550</td>
+                                <td>3,500</td>
+                                <td>3,800</td>
+                                <td>4,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>M2020, 2021, 2022, 2070, 2070F, 2071ndw</td>
+                                <td>ML-111S</td>
+                                <td>1,200</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>ML- 2950, 2951, 2955, SCX-4729FW, 4728FD</td>
+                                <td>MLT-D103L</td>
+                                <td>1,300</td>
+                                <td>1,600</td>
+                                <td>2,100</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
+                        {/* SAMSUNG Laser Printer Model */}
                     </Table>
                 </Container>
             </Fragment>
