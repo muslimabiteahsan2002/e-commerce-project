@@ -1226,8 +1226,85 @@ class Home extends Component {
                                 <td>2,000</td>
                                 <td>Call</td>
                             </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>ML-1610, 2010, 2510, 2570, 2571, 3010, SCX-4521F, SCX-4321</td>
+                                <td>LSML-4521</td>
+                                <td>1,300</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>ML-451x, 501x Series</td>
+                                <td>MLT-D307L</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>ML-451x, 501x Series</td>
+                                <td>MLT-D307S</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>25</td>
+                                <td>ML-451x, 501x Series</td>
+                                <td>MLT-R307</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>26</td>
+                                <td>LBP 841cdw</td>
+                                <td>Canon 335e</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
                         </tbody>
                         {/* SAMSUNG Laser Printer Model */}
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>BROTHER Laser Printer Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>HL- 2140, 2150n, 2170w, MFC-7320, 7340, 7450, 7440, 7840n, 7840w, DCP-7030, 7040, 7045</td>
+                                <td>TN-2130</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>HL-2130, DCP-7055</td>
+                                <td>TN-2060</td>
+                                <td>1,000</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
+                        {/* BROTHER Laser Printer Model */}
                     </Table>
                 </Container>
             </Fragment>
