@@ -1163,6 +1163,69 @@ class Home extends Component {
                                 <td>2,100</td>
                                 <td>Call</td>
                             </tr>
+                            <tr>
+                                <td>15</td>
+                                <td>ML- 2165W, SF-760P, SCX-3405FW, 2160, 2164</td>
+                                <td>ML-101S</td>
+                                <td>1,100</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>ML- 2541, 2547, 2570</td>
+                                <td>ML-102L</td>
+                                <td>1,200</td>
+                                <td>1,600</td>
+                                <td>2,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>M2625, M2626, 2825, 2826, 2675, 2676, 2875, 2875 (Price S 1,500/-, 1,700/- 1,900/- Original 2,900/-)</td>
+                                <td>ML-116L/S</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>SCX-4650, 4655, 4655FN</td>
+                                <td>ML-116L/S</td>
+                                <td>1,400</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>SL-M2620, 2820, M2670, M2870</td>
+                                <td> ML-115</td>
+                                <td>1,400</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>SL- M3320, 3820, 4020, 3370, 3870, 4070 (Price E-14,000/-, L-8,100/-, U-17,800/-)</td>
+                                <td>ML-203S</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>SCX-4300</td>
+                                <td>MLT-109</td>
+                                <td>1,500</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
                         </tbody>
                         {/* SAMSUNG Laser Printer Model */}
                     </Table>
