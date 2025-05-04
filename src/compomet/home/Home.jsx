@@ -1470,7 +1470,7 @@ class Home extends Component {
                         <thead>
                             <tr>
                                 <th>SL</th>
-                                <th>DELL Laser Printer</th>
+                                <th>DELL Laser Printer Model</th>
                                 <th>Toner Model</th>
                                 <th>Economy Price China</th>
                                 <th>Medium Price China</th>
@@ -1523,6 +1523,46 @@ class Home extends Component {
                                 <td>Call</td>
                                 <td>1,800</td>
                                 <td>Call</td>
+                            </tr>
+                        </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>EPSON Laser Printer Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>M1200</td>
+                                <td>M1200</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,500</td>
+                                <td>5,500</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>M2010</td>
+                                <td>M2010</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,700</td>
+                                <td>10,500</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>M6200, EPL6200, 6200N, 6200L</td>
+                                <td>M6200</td>
+                                <td>1,800</td>
+                                <td>2,100</td>
+                                <td>2,800</td>
+                                <td>5,500</td>
                             </tr>
                         </tbody>
                     </Table>

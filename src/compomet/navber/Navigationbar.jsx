@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Nav,Container,Navbar} from 'react-bootstrap';
 import '../mycssfolter/MyCSSSttyle.css'
-import logo from "../../asset/Logo_Toner.png"
+import logo from "../../asset/Logo.png"
 
 class Navigationbar extends Component {
   render() {
