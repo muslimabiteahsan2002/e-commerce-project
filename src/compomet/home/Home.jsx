@@ -1729,6 +1729,69 @@ class Home extends Component {
                                 <td>Call</td>
                                 <td>4,500</td>
                             </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>P3010D, P3010DW, P3300DN, P3300DW, M6700D, M6700DW, M7100DN, M7100DW, M6800FDW, M7200FD, M7200FDN, M7200FDW, M7300FDN, M7300FDW  (Price TL- 410X 5,500/-)</td>
+                                <td>TL-410/ TL-410X</td>
+                                <td>1,900</td>
+                                <td>2,000</td>
+                                <td>2,200</td>
+                                <td>4,800</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>P3500DN (Price 310X 8,000/-)</td>
+                                <td>P -310</td>
+                                <td>2,500</td>
+                                <td>2,650</td>
+                                <td>2,850</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>P3500DW</td>
+                                <td>P -310H</td>
+                                <td>2,500</td>
+                                <td>2,600</td>
+                                <td>2,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>P2200</td>
+                                <td>P 210</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>P3100DL, P3255DN, P3500DN, P3500DW</td>
+                                <td>PB 310EV</td>
+                                <td>2,500</td>
+                                <td>2,550</td>
+                                <td>2,850</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>P2500, M6500, M6550, M6600</td>
+                                <td>PC211</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>P3010D, P3010DW, P3300DN, P3300DW, M6700D, M6700DW, M7100DN, M7100DW, M6800FDW, M7200FD, M7200FDN, M7200FDW, M7300FDN, M7300FDW </td>
+                                <td>DL-410 (Drum Unit)</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
                         </tbody>
                     </Table>
                 </Container>
