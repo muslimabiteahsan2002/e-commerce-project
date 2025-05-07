@@ -8,7 +8,7 @@ class Navigationbar extends Component {
   render() {
     return (
       <>         
-          <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary" fixed="top">
+          <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand href="/"><img src={logo}/></Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />

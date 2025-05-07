@@ -1,16 +1,16 @@
-import React, { Component } from 'react';
-import FoterComponent from '../../compomet/footer/FoterComponent';
+import React, { Component, Fragment } from 'react';
 import Navigationbar from '../../compomet/navber/Navigationbar';
-import Laser from '../../compomet/laser/Laser';
+import FoterComponent from '../../compomet/footer/FoterComponent';
+import Laser from '../../compomet/laser/LaserCom';
 
 class LaseerPage extends Component {
     render() {
         return (
-            <div>
-               <Navigationbar/>
-               <Laser/>
-               <FoterComponent/> 
-            </div>
+            <Fragment>
+                <Navigationbar/>
+                <Laser/>
+                <FoterComponent/>
+            </Fragment>
         );
     }
 }
