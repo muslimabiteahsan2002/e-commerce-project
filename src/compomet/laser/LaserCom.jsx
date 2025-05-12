@@ -152,7 +152,70 @@ class LaserCom extends Component {
                                 <td>2,000</td>
                                 <td>2,500</td>
                                 <td>3,000</td>
-                                <tx>Call</tx>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>HP 4240, 4250, 4250n, 4350, 4350dtn</td>
+                                <td>42A</td>
+                                <td>2,500</td>
+                                <td>2,800</td>
+                                <td>3,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>HP 4200, 4200L</td>
+                                <td>38A</td>
+                                <td>2,500</td>
+                                <td>2,700</td>
+                                <td>3,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>HP 5000, 5100N</td>
+                                <td>29x</td>
+                                <td>2,100</td>
+                                <td>2,500</td>
+                                <td>2,900</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>HP 2300, 2300N, 2300DN, 2300DTN</td>
+                                <td>10A</td>
+                                <td>1,800</td>
+                                <td>2,300</td>
+                                <td>2,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>HP 5200, 5200n, 5200tn, 5200dtn, 5200le, LBP-3500,3900, 3950</td>
+                                <td>16A/309</td>
+                                <td>2,800</td>
+                                <td>3,200</td>
+                                <td>3,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>HP 1100, 3200, LBP-800, 810, 1110, 1120</td>
+                                <td>92A/EP-22</td>
+                                <td>800</td>
+                                <td>1,000</td>
+                                <td>1,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>HP 2100, 2100n, 2200, 2200dn</td>
+                                <td>96A</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>2,400</td>
+                                <td>Call</td>
                             </tr>
                         </tbody>
                     </Table>
