@@ -217,6 +217,132 @@ class LaserCom extends Component {
                                 <td>2,400</td>
                                 <td>Call</td>
                             </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>HP M4555mfp, 601n, 601dn, 602n, 602dn, 602x, 603n, 603dn</td>
+                                <td>90A</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>2,400</td>
+                                <td>20,000</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>HP 1150</td>
+                                <td>24A</td>
+                                <td>1,400</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>25</td>
+                                <td>HP 5L6L, 3100, 3150</td>
+                                <td>06A</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>2,300</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>26</td>
+                                <td>HP 9000, 9040, 9050</td>
+                                <td>43X</td>
+                                <td>9,500</td>
+                                <td>10,500</td>
+                                <td>11,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>27</td>
+                                <td>HP 4300</td>
+                                <td>39A</td>
+                                <td>4,300</td>
+                                <td>4,500</td>
+                                <td>4,900</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>28</td>
+                                <td>HP 2100N, 2200DN, 2100, 2200, LBP-470, 1000, 1310</td>
+                                <td>LC EP-32</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>2,600</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>29</td>
+                                <td>HP 4100, 4100mfp, 4101mfp</td>
+                                <td>61A</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>30</td>
+                                <td>HP M102a, M102w, M130a, M130fn, MFP M130fw, MFP M130nw</td>
+                                <td>17A</td>
+                                <td>1,300</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>8,000</td>
+                            </tr>
+                            <tr>
+                                <td>31</td>
+                                <td>HP M402D, M402d, M402n, M402dn, M402dw, M402m, M402dne, M426fdw, M426dw (Price 26X 1,600/-)</td>
+                                <td>26A/CRG-052</td>
+                                <td>1,100</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>15,400</td>
+                            </tr>
+                            <tr>
+                                <td>32</td>
+                                <td>HP M28W, M16, M15a, M15w, MFP28a, MFP28w, MFP29w</td>
+                                <td>44A/48A</td>
+                                <td>1,200</td>
+                                <td>1,400</td>
+                                <td>1,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>33</td>
+                                <td>HP M202n, M201n, M201dw, M201d, MFP M226dn, M226dw, M225dn, M225dw, M125a, M125nw, M127fn, M127fp, M127fw, M127fs, Canon MF249dw, MF246dn, MF244dw, MF237w, MF235, MF232w, MF229dw, MF226dn, MF217w, MF215, MF212w, MF22, LBP-151dn, LBP151dw</td>
+                                <td>83A/337/137</td>
+                                <td>800</td>
+                                <td>1,000</td>
+                                <td>1,200</td>
+                                <td>9,800</td>
+                            </tr>
+                            <tr>
+                                <td>34</td>
+                                <td>HP M12a, M12w, M16a, M16w, M26a</td>
+                                <td>79A</td>
+                                <td>750</td>
+                                <td>900</td>
+                                <td>1,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>35</td>
+                                <td>HP M501, M560, MFP M527, M527dn, M527f, M527z, M527n, M560n, M506dn, M506x    (Price Original  87X 24,700/-)</td>
+                                <td>87A/041</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>36</td>
+                                <td>HP M631dn M632fth, M633z, M633fh, M607dn, M607n, M608n,M608dn, M608x, M609</td>
+                                <td>37A</td>
+                                <td>3,800</td>
+                                <td>4,200</td>
+                                <td>4,500</td>
+                                <td>23,600</td>
+                            </tr>
                         </tbody>
                     </Table>
                 </Container>
