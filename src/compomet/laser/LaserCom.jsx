@@ -343,6 +343,141 @@ class LaserCom extends Component {
                                 <td>4,500</td>
                                 <td>23,600</td>
                             </tr>
+                            <tr>
+                                <td>37</td>
+                                <td>HP Laser Printer Toner ,  M203d, M203dn, M203dw, M227fdn, M227sdn, M227fdw</td>
+                                <td>30A</td>
+                                <td>1,200</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>8,300</td>
+                            </tr>
+                            <tr>
+                                <td>38</td>
+                                <td>HP M436n, M436nda, M436dn</td>
+                                <td>56X</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>2,800</td>
+                                <td>7,300</td>
+                            </tr>
+                            <tr>
+                                <td>39</td>
+                                <td>HP M435, M701, M706</td>
+                                <td>93A</td>
+                                <td>2,500</td>
+                                <td>2,800</td>
+                                <td>3,200</td>
+                                <td>26,300</td>
+                            </tr>
+                            <tr>
+                                <td>40</td>
+                                <td>HP MFP M630f, M605dn, MFP M630z, MFP M630h, MFP M630dn, M605n, MFP M630z, M606x, M604dn, MFP M630f, M606dn, M604n, MFP M630h, MFP M630f, M605x, MFP M630z, M605dh</td>
+                                <td>81A</td>
+                                <td>2,000</td>
+                                <td>2,300</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>41</td>
+                                <td>HP M404, M404dn, M404dw, M404n, M428, M428fdn, M428fdw  (76A with chip 5,500/-)</td>
+                                <td>76A/58A/59A</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>13,000</td>
+                            </tr>
+                            <tr>
+                                <td>42</td>
+                                <td>HP  107a,  MFP 107W,  MFP  135a,  MFP 137fnw  (With Chip 2,400/-)</td>
+                                <td>107A/106A</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>7,000</td>
+                            </tr>
+                            <tr>
+                                <td>43</td>
+                                <td>HP M507, M528, E52645</td>
+                                <td>89A</td>
+                                <td>2,000</td>
+                                <td>2,300</td>
+                                <td>2,500</td>
+                                <td>19,000</td>
+                            </tr>
+                            <tr>
+                                <td>44</td>
+                                <td>HP M402D, M402d, M402n, M402dn, M402dw, M402m, M402dne, M426fdw, M426dw</td>
+                                <td>26X</td>
+                                <td>1,600</td>
+                                <td>2,000</td>
+                                <td>2,400</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>45</td>
+                                <td>ENT M855</td>
+                                <td>826A</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>26,200</td>
+                            </tr>
+                            <tr>
+                                <td>46</td>
+                                <td>HP LaserJet P2035, P2035n, P2055dn, P2055x</td>
+                                <td>05X/80X</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>47</td>
+                                <td>HP LaserJet Pro M102w, MFP M130fw</td>
+                                <td>19A</td>
+                                <td>1,800</td>
+                                <td>2,,000</td>
+                                <td>2,400</td>
+                                <td>9,500</td>
+                            </tr>
+                            <tr>
+                                <td>48</td>
+                                <td>HP  M104, M104a, M104w, M132 MFP,M132a MFP,M132fn MFP,M132fw</td>
+                                <td>18A</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>49</td>
+                                <td>HP  6830, 6820, 6220</td>
+                                <td>55X</td>
+                                <td>2,000</td>
+                                <td>2,500</td>
+                                <td>3,000</td>
+                                <td>17,000</td>
+                            </tr>
+                            <tr>
+                                <td>50</td>
+                                <td>HP M304a, M404dn, M404dw, M404dw, M404n, M404n, MFP M428dw, MFP M428fdn, MFP M428fdw, MFP M428m (76A with chip 5,500/-)</td>
+                                <td>59A/58A/76A</td>
+                                <td>1,400</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>13,000</td>
+                            </tr>
+                            <tr>
+                                <td>51</td>
+                                <td>HP LaserJet Pro 4003, 4103, M4003dn, M4003dw,M4103dn</td>
+                                <td>151A (W1510A)</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>13,300</td>
+                            </tr>
                         </tbody>
                     </Table>
                 </Container>
