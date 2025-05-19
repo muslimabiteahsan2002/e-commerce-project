@@ -479,6 +479,301 @@ class LaserCom extends Component {
                                 <td>13,300</td>
                             </tr>
                         </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>CANON and HP color Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>HP 1213, 1214, 1215, 1216, 1217, 1517, 1513n, 1514n, 1515n, 1516n, 1517ni, 1518ni, 1519ni, 1300nfp, 1312mfp, 5050, 8050</td>
+                                <td>540A/543A/ 541A/542A</td>
+                                <td>6,500</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>HP 1411fn, 1412fn, 1413fn, 1415fn, 1415fnw, 416fw, 1417fnw, 1418fnw, 1521, 1522, 1523, 1225nw, 1526nw, 1527nw, 1528nw</td>
+                                <td>320A/321A, 322A/ 323A</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>HP 1600, 2600n, 2605, 2505dn, 2605dtn, 1015, 1017, LBP 5000, 5100</td>
+                                <td>6000A/6001A/ 6002A/6003A</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>HP 1000, 1200, 1300, 2020, 2024, 2025, 2026, 2027, 2024n, 2024dn, 2025n, 2025dn, 2025x, 2026n, 2026dn, 2320, 7200, 7660cdn, 8380cdw</td>
+                                <td>304A</td>
+                                <td>7,000</td>
+                                <td>8,000</td>
+                                <td>9,000</td>
+                                <td>34,000</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>HP N251 nw, MFP m276nw</td>
+                                <td>131A Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>45,000</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>HP 300, 400, M451, M475</td>
+                                <td>CE 410A/ 411A</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>58,000</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>HP 400, M351, M451ndw, M375ndw, M451ndw</td>
+                                <td>305A Full Set</td>
+                                <td>6,500</td>
+                                <td>7,500</td>
+                                <td>8,500</td>
+                                <td>39,000</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>HP MFP M180n, M181fw ( Price 204Y 5,550/-, 204B 4,300/-, 204C 4,800/-, 204M 4,800/-)</td>
+                                <td>204A Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>22,000</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>HP M254dw, M254nw ( Price 202Y 5,900/-, 202M 5,900/-, 202C 5,900/-, 202B 5,200/-)</td>
+                                <td>202A Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>27,000</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>HP M252, 252n, 252dw, m277n, 277dw, 201    (Price 201Y7,100/-, 201M 7,100/-, 201C 7,100/-, 201B 6,000/-)</td>
+                                <td>201A Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>HP Color LaserJet MFP M477fdn, M477fdw,  M477fnw,  M452DN,  M452dw,  M452nw, MFP M377dw (Price 410Y 9,600/-, 410M 9,600/-, 410C 9,600/-, 410B 7,300/-)</td>
+                                <td>CF 410A  Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>58,500</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>HP M500, M551, M553n, 570, M575 ( Price 508Y 16,500/-, 508M 16,500/-, 508C 16,500/-, 508B 13,800/-)</td>
+                                <td>508A Full Set</td>
+                                <td>16,000</td>
+                                <td>18,000</td>
+                                <td>20,000</td>
+                                <td>1,05,000</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>HP N251 nw, Mfp m276nw</td>
+                                <td>210A/211A/ 212A/213A</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>HP CP5225dn   ( Price 307Y 22,000/-, 307M 22,000/-, 307C 22,000/-, 307B 13,200/-)</td>
+                                <td>307A Full Set</td>
+                                <td>22,000</td>
+                                <td>24,000</td>
+                                <td>26,000</td>
+                                <td>1,21,000</td>
+                            </tr>
+                            <tr>
+                                <td>15</td>
+                                <td>HP MFP M176, 176N, M177, 177FW     (Price 130Y 4,900/-, 130M 4,900, 130C 4,900/-, 130B 4,850/-)</td>
+                                <td>130A/350 Full Set</td>
+                                <td>4,500</td>
+                                <td>5,000</td>
+                                <td>5,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>HP CP1525n, CP1525nw, MFP CM1415fn, CM1415fnw</td>
+                                <td>128A Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>HP CP1215, CP1515n, CP1518ni, MFP CM1312, CM1312nfi</td>
+                                <td>125A Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>20,000</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>HP M254dw, M254nw, MFP M280nw, M281fdn, M281fdw  (BK 6,900/-, C 6,900/-, Y 6,900/-, M 6,900/-)</td>
+                                <td>203A/054 Full Set</td>
+                                <td>7,500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>35,000</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>HP 500, M551n, M551dn, M551xh, MFP M575dn, M575f, M575c, M570dn, M570dw (C 17,700/-, Y 17,700/-, M 17,700/-)</td>
+                                <td>507A Full Set</td>
+                                <td>12,000</td>
+                                <td>15,000</td>
+                                <td>20,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>Cano MF 643Cdn</td>
+                                <td>054 Full Set</td>
+                                <td>7,000</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>HP M155a, MFP M182n, MFP M183FW   (BK 4,500/-, C 5,000/-, M 5000/-, Y 5,000/-)</td>
+                                <td>215A Set (No Chip)</td>
+                                <td>7,000</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>29,000</td>
+                            </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>HP Color LaserJet Pro M255dw, M282, M283fdw</td>
+                                <td>206A</td>
+                                <td>8,500</td>
+                                <td>9,000</td>
+                                <td>9,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>HP Color LaserJet Pro M255dw, M282, M283fdw</td>
+                                <td>206A (No Chip)</td>
+                                <td>6,500</td>
+                                <td>7,000</td>
+                                <td>7,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>Hp color laserjet M652n, M652dn, M653dn, m653x ,mfp m681 series</td>
+                                <td>655A</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>1,20,000</td>
+                            </tr>
+                            <tr>
+                                <td>25</td>
+                                <td>HP Color LaserJet M455dn, M480f, M454dn, M454dw, M479dw, M479fdn, M479fdw, M479fnw</td>
+                                <td>415A/2030A (No Chip)</td>
+                                <td>7.500</td>
+                                <td>8,000</td>
+                                <td>8,500</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody><thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>CANON Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>LBP-1210, 1200, 1220, 3300, 3380</td>
+                                <td>EP- 25/15A</td>
+                                <td>800</td>
+                                <td>1,000</td>
+                                <td>1,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>L200, 240, 250, 260i, 280, 290, 350, 360</td>
+                                <td>FX-3</td>
+                                <td>1,100</td>
+                                <td>1,300</td>
+                                <td>1,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>LBP- 3100, 3150, 3050</td>
+                                <td>312/ 35A</td>
+                                <td>700</td>
+                                <td>900</td>
+                                <td>1,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>LBP- 1320, 1160, 3390, 3392</td>
+                                <td>308/49A</td>
+                                <td>1,100</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>P1005, P1006, P1100, P1102, P1102W, P1503, P1506,  M1132, LBP-6000, 6030, 6200, 3018, 3010, M1214</td>
+                                <td>325/85A</td>
+                                <td>700</td>
+                                <td>900</td>
+                                <td>1,100</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
                     </Table>
                 </Container>
             </Fragment>
