@@ -985,8 +985,309 @@ class LaserCom extends Component {
                                 <td>1,700</td>
                                 <td>Call</td>
                             </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>ML-1640, 1641, 2240, 2241</td>
+                                <td>ML-2010</td>
+                                <td>1,100</td>
+                                <td>1,500</td>
+                                <td>1,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>ML- 28500d, 2851nd</td>
+                                <td>ML-2850</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>ML- 1410, 1500, 1510, 1710, 1740, 1720, 1755</td>
+                                <td>ML-1710</td>
+                                <td>1,400</td>
+                                <td>1,700</td>
+                                <td>2,200</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>SF- 560R, 565RR, 565PCR</td>
+                                <td>SF D560RA</td>
+                                <td>1,900</td>
+                                <td>2,900</td>
+                                <td>2,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>ML- 4050, 4580, 4551</td>
+                                <td>ML-111S</td>
+                                <td>3,500</td>
+                                <td>3,800</td>
+                                <td>4,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>M2020, 2021, 2022, 2070, 2070F, 2071ndw</td>
+                                <td>ML-111S</td>
+                                <td>1,300</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>ML- 2950, 2951, 2955, SCX-4729FW, 4728FD</td>
+                                <td>MLT-D103L</td>
+                                <td>1,300</td>
+                                <td>1,600</td>
+                                <td>2,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>ML- 2165W, SF-760P, SCX-3405FW, 2160, 2164</td>
+                                <td>ML-101S</td>
+                                <td>1,100</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>15</td>
+                                <td>ML- 2541, 2547, 2570</td>
+                                <td>ML-102L</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>2,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>M2625, M2626, 2825, 2826, 2675, 2676, 2875, 2875 (Price S 1,500/-, 1,700/- 1,900/- Original 2,900/-)</td>
+                                <td>ML-116L/S</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>2,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>SCX-4650, 4655, 4655FN</td>
+                                <td>ML-117</td>
+                                <td>2,000</td>
+                                <td>2,300</td>
+                                <td>2,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>SL-M2620, 2820, M2670, M2870</td>
+                                <td>ML-115</td>
+                                <td>2,200</td>
+                                <td>2,400</td>
+                                <td>2,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>SL- M3320, 3820, 4020, 3370, 3870, 4070   (Price E-14,000/-, L-8,100/-, U-17,800/-)</td>
+                                <td>ML-203S</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>SCX-4300</td>
+                                <td>MLT-109</td>
+                                <td>1,500</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>ML-1610, 2010, 2510, 2570, 2571, 3010, SCX-4521F, SCX-4321</td>
+                                <td>LSML-4521</td>
+                                <td>1,000</td>
+                                <td>1,200</td>
+                                <td>1,600</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>ML-451x, 501x Series</td>
+                                <td>MLT-D307L</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>ML-451x, 501x Series</td>
+                                <td>MLT-D307S</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>ML-451x, 501x Series</td>
+                                <td>MLT-R307</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
                         </tbody>
                         {/* 1+1 */}
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>BROTHER Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>HL- 2140, 2150n, 2170w, MFC-7320, 7340, 7450, 7440, 7840n, 7840w, DCP-7030, 7040, 7045</td>
+                                <td>TN-2130</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>HL-2130, DCP-7055</td>
+                                <td>TN-2060</td>
+                                <td>1,000</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>HL- 2040, 2070n, DCP-7010, MFC-7420, 7820n, 7220, Fax-2820</td>
+                                <td>TN-2025</td>
+                                <td>1,200</td>
+                                <td>1,400</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>HL- 2240, 2240nd, 2510dn, 2270dw, MFC-7360, 7860dw, DCP-7060d</td>
+                                <td>TN-2280</td>
+                                <td>850</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>HL – 5240, 5250dnt, 5340, 5350, 5380, 5270, 5280DW, MFC 8460n, 8860dn, DCP-8060, MF-8870, 8670</td>
+                                <td>TN-3250</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Brother HL-1110, DCP-1510, MFC-1810, MFC-1815, DCP‐1610W, MFC‐1910W, HL-1210W </td>
+                                <td>TN-1000 / TN-1050</td>
+                                <td>1,000</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>HL – DCP8110dn, 8155dn, HL-5450dn, 5470dwt, 6180dwt, MFCB 510dn</td>
+                                <td>TN-720</td>
+                                <td>1,700</td>
+                                <td>2,100</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>HL- L5500DN, DCP L5600DN, DCP L5650DN, HL L5000D, HL L5100DN, HL L5200DW, HL L5200DWT, HL L6200DW, HL L6200DWT, HL L6250DW, HL L6300DW, HL L6400DW, HL L6400DWT, MFC L5700DW, MFC L5800DW, MFC L5850DW, MFC L5900DW, MFC L6700DW, MFC L6750DW, MFC L6800DW, MFC L6900DW</td>
+                                <td>TN-820/TN-850/TN-3470/TN-3467</td>
+                                <td>1,650</td>
+                                <td>2,000</td>
+                                <td>2,400</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>HL-L2320D, HL-L2365DW, MFC-L2700D, MFC-L2700DW, MFC-L2740DW, DCP-L2540W</td>
+                                <td>TN-2305/630</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>HL – L2300D, 2340DW, 2380DW, DCP 2520DW, 2540DW, MFC 2700DW, 2720DW, 2740DW</td>
+                                <td>TN-630/TN-2305</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>1,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>Brother TN-2260, HL 2240D, HL 2250DN</td>
+                                <td>TN-2260</td>
+                                <td>Call</td>
+                                <td>3,000</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>HL-L2310D, HL-L2350DW, HL-L2370DN, HL-L2375DW, DCP-L2510D, DCP-L2530DW, MFC-L2710DN, MFC-L2710DW, MFC-L2730DW, MFC-L2750DW</td>
+                                <td>TN-2410/2455</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>L5200DW, 5100DW, 6250DW, 6300DWT, 6400DW</td>
+                                <td>TN-3469/TN-3480</td>
+                                <td>1,800</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>L2335D, L2335DW, L2370DN</td>
+                                <td>TN 2455/2405/ 2420/2460/2480</td>
+                                <td>1,250</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
                     </Table>
                 </Container>
             </Fragment>
