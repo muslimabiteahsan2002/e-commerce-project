@@ -1288,6 +1288,104 @@ class LaserCom extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>DELL Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>1130, 1130n, 1135</td>
+                                <td> 1130</td>
+                                <td>1,300</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>2330</td>
+                                <td>LD2330</td>
+                                <td>3,300</td>
+                                <td>3,500</td>
+                                <td>3,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>B1160, B1160W, 116X, LD1160, B1160</td>
+                                <td>B-1160</td>
+                                <td>1,700</td>
+                                <td>2,100</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>E310, 310dw, 514dw, 515dnf</td>
+                                <td>310</td>
+                                <td>1,300</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>B1260, B1260dn, B1265dnf</td>
+                                <td>B1260d</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>1, 800</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>EPSON Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>M1200</td>
+                                <td>M1200</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>M2010</td>
+                                <td>M2010</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>M6200, EPL6200, 6200N, 6200L</td>
+                                <td>M6200</td>
+                                <td>1,800</td>
+                                <td>2,100</td>
+                                <td>2,800</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
                     </Table>
                 </Container>
             </Fragment>
