@@ -1386,6 +1386,216 @@ class LaserCom extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>LEXMARK Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>E120</td>
+                                <td>E120</td>
+                                <td>1,500</td>
+                                <td>1,800</td>
+                                <td>2,100</td>
+                                <td>10,700</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>E230, 232, 234, 240, 340, 342</td>
+                                <td>E230</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>2,500</td>
+                                <td>3,500</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>E260, 260dn, 260, 260d, 360dn, 460 (without Chip)</td>
+                                <td>E260</td>
+                                <td>2,100</td>
+                                <td>2,500</td>
+                                <td>2,800</td>
+                                <td>6,700</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>E260, 360, 260d, 460, 460dn, 460dw, 460dtn, 250d, 250dn, 360, 360d, 360dn</td>
+                                <td>E-260</td>
+                                <td>3,300</td>
+                                <td>3,500</td>
+                                <td>3,800</td>
+                                <td>6,500</td>
+                            </tr>
+                        </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>XEROX Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>3117, 3122, 3124, 3125</td>
+                                <td>3117</td>
+                                <td>1,200</td>
+                                <td>1,500</td>
+                                <td>2,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>3150, 3250</td>
+                                <td>3150/3250</td>
+                                <td>1,700</td>
+                                <td>2,100</td>
+                                <td>2,500</td>
+                                <td>4,000</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>3315, 3320, 3325</td>
+                                <td>3320B</td>
+                                <td>2,200</td>
+                                <td>2,500</td>
+                                <td>3,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>3121</td>
+                                <td>3121</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>1,800</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>3140, 3155, 3160, 3140B</td>
+                                <td>3140B</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>1,600</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Phaser 3020, 3025</td>
+                                <td>P3020</td>
+                                <td>1,400</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>3,000</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>3140, 3155, 3160</td>
+                                <td>X-3360</td>
+                                <td>2,000</td>
+                                <td>2,300</td>
+                                <td>2,500</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Xerox- 3330, 3335, 3345</td>
+                                <td>3330/3335</td>
+                                <td>3,000</td>
+                                <td>3,300</td>
+                                <td>3,500</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>PANTUM Laser Printer toner Model</th>
+                                <th>Toner Model</th>
+                                <th>Economy Price China</th>
+                                <th>Medium Price China</th>
+                                <th>Best Price China</th>
+                                <th>Original Toner Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>Pantum P2500W, P2502W, M6500NW, M6550NW, M6552NW, M6600NW, M6602NW</td>
+                                <td>P-210 Series</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>P3500DW</td>
+                                <td>PB310EV</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>P3010D, P3010DW, P3300DN, P3300DW, M6700D, M6700DW, M7100DN, M7100DW, M6800FDW, M7200FD, M7200FDN, M7200FDW, M7300FDN, M7300FDW  (Price TL- 410X 5,500/-)</td>
+                                <td>TL-410/ TL-410X</td>
+                                <td>1,600</td>
+                                <td>1,700</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>P3500DN (Price 310X   8,000/-)</td>
+                                <td>P -310</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>P3500DW</td>
+                                <td>P -310H</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>P2200</td>
+                                <td>P 210</td>
+                                <td>1,600</td>
+                                <td>1,800</td>
+                                <td>2,000</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Pentum P2506/P2506W/M6506N</td>
+                                <td>Pantum 216</td>
+                                <td>1,600</td>
+                                <td>1,700</td>
+                                <td>1,900</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
                     </Table>
                 </Container>
             </Fragment>
