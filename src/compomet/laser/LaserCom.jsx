@@ -1148,7 +1148,6 @@ class LaserCom extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
-                        {/* 1+1 */}
                         <thead>
                             <tr>
                                 <th>SL</th>
@@ -1596,6 +1595,15 @@ class LaserCom extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
+                        <tr>
+                            <td>8</td>
+                            <td>P3100DL, P3255DN, P3500DN, P3500DW</td>
+                            <td>PB 310EV</td>
+                            <td>Call</td>
+                            <td>Call</td>
+                            <td>Call</td>
+                            <td>Call</td>
+                        </tr>
                     </Table>
                 </Container>
             </Fragment>

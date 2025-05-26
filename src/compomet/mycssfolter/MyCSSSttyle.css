@@ -15,5 +15,11 @@
     font-weight: bold;
 }
 .StyleYuobe{
-    background-color: red;
+    color: red;
+}
+.StyleFac{
+    color: rgb(74, 25, 237);
+}
+.na:hover {
+  color: rgb(74, 79, 236);
 }

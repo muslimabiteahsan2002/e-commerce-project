@@ -546,7 +546,6 @@ class Home extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
-                        {/* HP Laser Jet Printer Model 43+1 */}
                         <thead>
                             <tr>
                                 <th>SL</th>
@@ -776,7 +775,6 @@ class Home extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
-                        {/* CANON and HP Laser Printer Model*/}
                         <thead>
                             <tr>
                                 <th>SL</th>
@@ -1024,7 +1022,6 @@ class Home extends Component {
                                     <td>Call</td>
                                 </tr>
                             </tbody>
-                        {/* CANON Laser Printer Model */}
                         <thead>
                             <tr>
                                 <th>SL</th>
@@ -1272,7 +1269,6 @@ class Home extends Component {
                                 <td>Call</td>
                             </tr>
                         </tbody>
-                        {/* SAMSUNG Laser Printer Model */}
                         <thead>
                             <tr>
                                 <th>SL</th>
@@ -1421,7 +1417,6 @@ class Home extends Component {
                                 <td>28,500</td>
                             </tr>
                         </tbody>
-                        {/* BROTHER Laser Printer Model */}
                         <thead>
                             <tr>
                                 <th>SL</th>
@@ -1433,7 +1428,6 @@ class Home extends Component {
                                 <th>Original Toner Price</th>
                             </tr>
                         </thead>
-                        {/* Fujifilm Color Laser Printer Model */}
                         <tbody>
                             <tr>
                                 <td>1</td>

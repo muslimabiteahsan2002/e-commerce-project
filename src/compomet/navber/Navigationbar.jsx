@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Nav,Container,Navbar} from 'react-bootstrap';
+import {Nav,Container,Navbar,NavLink} from 'react-bootstrap';
 import '../mycssfolter/MyCSSSttyle.css'
 import logo from "../../asset/Logo.png"
 
@@ -14,12 +14,12 @@ class Navigationbar extends Component {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav>
-                <Nav.Link href="/">Welcome to TonerShopBD</Nav.Link>
-                <Nav.Link href="/laser">Laser Printer Toner</Nav.Link>
-                <Nav.Link href="/inkJet">DeskJet/InkJet Printer Cartridge</Nav.Link>
-                <Nav.Link href="/dot">Dot Printer Ribbon</Nav.Link>
-                <Nav.Link href="/photocopy">Photocopy Toner</Nav.Link>
-                <Nav.Link href="/information">আমাদের কথা</Nav.Link>
+                <NavLink href="/" className="na">Welcome to TonerShopBD</NavLink>
+                <NavLink href="/laser" className="na">Laser Printer Toner</NavLink>
+                <NavLink href="/inkJet" className="na">DeskJet/InkJet Printer Cartridge</NavLink>
+                <NavLink href="/dot" className="na">Dot Printer Ribbon</NavLink>
+                <NavLink href="/photocopy" className="na">Photocopy Toner</NavLink>
+                <NavLink href="/information" className="na">আমাদের কথা</NavLink>
               </Nav>
             </Navbar.Collapse>
           </Container>

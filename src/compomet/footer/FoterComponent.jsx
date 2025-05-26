@@ -21,8 +21,8 @@ class FoterComponent extends Component {
                         <Col>Home Laser Printer Toner DeskJet/InkJet Printer Cartridge Dot Printer Ribbon Photocopy Toner আমাদের কথা</Col>
                         <Col>
                             <Row xs="auto">
-                                <Col><FontAwesomeIcon icon={faYoutube} /></Col>
-                                <Col><FontAwesomeIcon icon={faFacebook} /></Col>
+                                <Col><FontAwesomeIcon className='StyleYuobe' icon={faYoutube} /></Col>
+                                <Col><FontAwesomeIcon className='StyleFac' icon={faFacebook} /></Col>
                                 <Col><FontAwesomeIcon icon={faEnvelope} /></Col>
                             </Row>
                             <br/>
@@ -42,7 +42,7 @@ class FoterComponent extends Component {
                         <Col>
                             <div>
                                 <FontAwesomeIcon className='StyleYuobe' icon={faYoutube} />&nbsp;&nbsp;&nbsp;
-                                <FontAwesomeIcon icon={faFacebook} />&nbsp;&nbsp;&nbsp;
+                                <FontAwesomeIcon className='StyleFac' icon={faFacebook} />&nbsp;&nbsp;&nbsp;
                                 <FontAwesomeIcon icon={faEnvelope} />
                             </div>
                         </Col>
