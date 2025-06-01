@@ -562,8 +562,323 @@ class Inkject extends Component {
                                 <td>1,375</td>
                                 <td>1,600</td>
                             </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Canon Pixma iP90, DS700, DS810</td>
+                                <td>BCI-16 C</td>
+                                <td>1,815</td>
+                                <td>2,400</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Canon iP-100 (Price 36C 1,760/-)</td>
+                                <td>BCI-35B/36C</td>
+                                <td>1,320</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>PIXMA iP1600, iP1600, iP1700, iP1800, iP2600, iP2600, MP140, MP150, MP160, MP170, MP180, MP190, MP210, MP210, MP210, MP450, MP460, MP460, MP470, MP470, MX300</td>
+                                <td>PG-40</td>
+                                <td>Call</td>
+                                <td>5,000</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>PIXMA MP140, MP150, MP160, MP170, MP180, MP210, MP220, MP450, MP460, MP470, MX300, MX310, iP1200, iP1300, iP1600, iP1700, iP1800, iP1900, iP2200, iP2500, iP2600, iP6210D (Color only), iP6220D (Color only)</td>
+                                <td>CL-41</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>TS6120, TS6220, TS8120, TR7520, TS9120, TS8220, TS9520, TS9521С, TR8520,  TR7520, TR8520, TS6120, TS8120, TS9120, TS8220, TS6220, TS9520, TS9521C, TS9100, TR8500, TR7500</td>
+                                <td>PGI-830</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>E400/E500 (Price PG-47- 770/-, PG-88- 1,265/-, CL-57- 1,264/-, CL-98- 1,485/-)</td>
+                                <td>PG-47</td>
+                                <td>700</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>MG 7230/ MX-457 (Price PG-740 XL 1,925/-)</td>
+                                <td>PG-740/XL</td>
+                                <td>1,375</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>IP-2872</td>
+                                <td>PG-745 BK XL</td>
+                                <td>1,485</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>IP-2570s</td>
+                                <td>PG-745s BK</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>MG5770, MG6870</td>
+                                <td>PGI-770 BK XL</td>
+                                <td>1,540</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>G1000, G2000, G3000, G4000 (BK- 1000/-, C- 900/-, M- 900/-, Y-900/-)</td>
+                                <td>GI-790</td>
+                                <td>715</td>
+                                <td>3,700/- (Set)</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>IP4870, IX6560, IX6770</td>
+                                <td>PGI-725 BK</td>
+                                <td>1,100</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>15</td>
+                                <td>IP-7270, iX6870 (B/C/M/Y)</td>
+                                <td>PGI-751</td>
+                                <td>1,320</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>MP 245, MP 276, MP 486, MX 416, IP 2772, IP 2770, MP 258, MP 287, MP 496, MP 497, MP 287, MX 328, MX 347, MX 357   (NON-XL 810, 811 Original Price: 3,500/- )</td>
+                                <td>PG 810XL, 811XL Set</td>
+                                <td>2,000</td>
+                                <td>3,500</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>MP245, MP486, MX328.</td>
+                                <td>CL 811</td>
+                                <td>1,815</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>IP3680, IP4680, IP4760, MP545, MP558, MP568, MP628, MP638, MP648, MP988, MP996, MX868, MX876</td>
+                                <td>PGI-820B 821BK/C/Y/M</td>
+                                <td>1,045</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>MP500, MP530, MP600, MP610, MP800, MP800R, MP810, MP830</td>
+                                <td>PGI-5 BK</td>
+                                <td>1,430</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>MP750/MP760/MP780/iP4000/iP4000R/iP5000/iP6000D/iP8500.</td>
+                                <td>BCI-6BK/C/Y/M</td>
+                                <td>935</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>PIXMA iP4200/iP4300/iP4500/iP5200/iP5200R/iP6600D/iP6700D/MP500</td>
+                                <td>CLI-8 BK/C/Y/M</td>
+                                <td>1,210</td>
+                                <td>Call</td>
+                            </tr>
+                        </tbody>
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>EPSON DeskJet/InkJet Printer Cartridge Model</th>
+                                <th>Cartridge Model</th>
+                                <th>China Price</th>
+                                <th>Original Cartridge Price</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>EcoTank L130</td>
+                                <td>C13T6641-4</td>
+                                <td>Call</td>
+                                <td>460</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>EcoTank M100, M105</td>
+                                <td>C13T774100</td>
+                                <td>Call</td>
+                                <td>1,000</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>EcoTank L3110, L3150 (Price BK 460/-, M 580/-, Y 580/-, C 580/-)</td>
+                                <td>C13T00V198 BK</td>
+                                <td>Call</td>
+                                <td>460</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>EcoTank M1120</td>
+                                <td>5</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>EcoTank M200</td>
+                                <td>C13T774100</td>
+                                <td>Call</td>
+                                <td>1,000</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>EcoTank L4160</td>
+                                <td>C13T03Y100</td>
+                                <td>Call</td>
+                                <td>1,550</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>EcoTank L565</td>
+                                <td>C13T6641 BK</td>
+                                <td>Call</td>
+                                <td>460</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>EcoTank L6170</td>
+                                <td>C13T03Y100 BK</td>
+                                <td>Call</td>
+                                <td>1,550</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>EcoTank L1300</td>
+                                <td>C13T6641 BK</td>
+                                <td>Call</td>
+                                <td>460</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>EcoTank L1800</td>
+                                <td>C13T6731 BK</td>
+                                <td>Call</td>
+                                <td>950</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>EcoTank L1300</td>
+                                <td>C6731/ T6732-T6736</td>
+                                <td>Call</td>
+                                <td>950</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>Epson L6160</td>
+                                <td>C13T03Y100</td>
+                                <td>Call</td>
+                                <td>1,550</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>Epson Stylus C79, C90, C110, CX3900, CX5500, CX5900, CX8300, T10, T11, T20E, TX110, TX111, TX400, TX550WT30, TX300F, TX510FN (BK 550/-, Cyan 550/-, Magenta 780/-, Yellow 550/-)</td>
+                                <td>Epson 73N</td>
+                                <td>Call</td>
+                                <td>2,430 (Set)</td>
+                            </tr>
+                            <tr>
+                                <td>14</td>
+                                <td>Epson Stylus C79, C90, C110, CX3900, CX5500, CX5900, CX8300, T10, T11, T20E, TX110, TX111, TX400, TX550WT30, TX300F, TX510FN</td>
+                                <td>Epson 73NH</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>15</td>
+                                <td>R290, R270, R390, RX590, RX610, RX690, TX700W, TX800FW, 1410 (Bk 1000/-, Cyan 1000/-, Magenta 1000/-, Yellow 1000/-, Light Cyan 1000/-, Light Magenta 1000/-)</td>
+                                <td>Epson 81N</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>16</td>
+                                <td>Epson Stylus R1390, SP 1390, T60</td>
+                                <td>Epson 85N</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>Epson Stylus C90, CX5500, T10, T11, T13, T20E, TX100, TX101, TX110, TX111, TX121</td>
+                                <td>Epson 91N</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>18</td>
+                                <td>Epson Stylus Office T30, T40W, TX600FW</td>
+                                <td>Epson 103</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>19</td>
+                                <td>Epson L800, L1800, L810, L850 (BK 1000/-, Cyan 1000/-, Magenta 1000/-, Yellow 1000/-,  Light Cyan 1000/-, Light Magenta 1000/-)</td>
+                                <td>673</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>20</td>
+                                <td>Epson L100, L110, L200, L210, L350, L355, L550 (BK 550/-, Cyan 550/-, Magenta 550/-, Yellow 550/-)</td>
+                                <td>664</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>21</td>
+                                <td>Epson L100, L110, L120, L200, L210, L300, L350, L355 (BK 460/-, Cyan 580/-, Magenta 580/-, Yellow 580/-)</td>
+                                <td>664</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>22</td>
+                                <td>Epson M100, M200 (BK 1000/-)</td>
+                                <td>Epson Ink Bottle Mono Pigment</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>23</td>
+                                <td>L800/L850/L1800/L805 (BK 1,000/-, Cyan 950/-, Yellow 1,050/-, Light Cyan 950/-, Light Magenta 950/-)</td>
+                                <td>Epson C13-T6731</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>SC-P 5000 (Orange 8000/-, Magenta 8000/-, Yellow 8000/- )</td>
+                                <td>Epson T913A/T9132/T9133/T9134</td>
+                                <td>Call</td>
+                                <td>Call</td>
+                            </tr>
                         </tbody>
                     </Table>
+                    <h3>DeskJet/InkJet Printer Cartridge প্রিন্টার ও টোনার কার্ট্রিজ সম্পর্কিত যেকোন তথ্য জানতে ‍যেকোন সময় কল করুন:</h3>
+                    <p>China & Original DeskJet/InkJet Printer Cartridge সুলভ মূল্যে পাওয়া যায় ।</p>
+                    <p>China & Original DeskJet/InkJet Printer Cartridge এর জন্য 01715-298047, 01713-875635 অথবা SMS দিয়ে রাখুন ‍আমরা যোগাযোগ করবো । আরো জানতে ক্লিক করুন ।</p>
                 </Container>
             </Fragment>
         );

@@ -24,8 +24,8 @@
   color: rgb(74, 79, 236);
 }
 tr th{
-    border: 1px solid;
+    border: 1px solid #dcd7d7;
 }
 tr, td{
-    border: 1px solid;
+    border: 1px solid #dcd7d7;
 }
