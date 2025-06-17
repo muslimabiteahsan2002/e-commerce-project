@@ -5,6 +5,7 @@ class Inkject extends Component {
     render() {
         return (
             <Fragment>
+                <title>DeskJet/InkJet Printer</title>
                 <Container>
                     <p>DeskJet/InkJet Printer Cartridge সম্পর্কিত যেকোন তথ্য জানতে ‍যেকোন সময় কল করুন:</p>
                     <p>01715-298047, 01713-875635 অথবা SMS দিয়ে রাখুন ‍আমরা যোগাযোগ করবো ।</p>

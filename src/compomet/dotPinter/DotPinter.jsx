@@ -5,6 +5,7 @@ class DotPinter extends Component {
     render() {
         return (
             <Fragment>
+                <title>Dot Printer</title>
                 <Container>
                     <p>প্রিন্টার ও টোনার কার্ট্রিজ সম্পর্কিত যেকোন তথ্য জানতে ‍যেকোন সময় কল করুন:</p>
                     <p>01715-298047, 01713-875635 অথবা SMS দিয়ে রাখুন ‍আমরা যোগাযোগ করবো ।</p>

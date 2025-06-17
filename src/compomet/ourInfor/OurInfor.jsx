@@ -5,6 +5,7 @@ class OurInfor extends Component {
     render() {
         return (
             <Fragment>
+                <title>All Information</title>
                 <Container>
                     <p>আসসালামু আলাইকুম । TonerShopBD.com,</p>
                     <p>

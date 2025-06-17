@@ -5,6 +5,7 @@ class LaserCom extends Component {
     render() {
         return (
             <Fragment>
+                <title>Laser Printer</title>
                 <Container>
                     <Table>
                         <thead>
