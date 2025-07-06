@@ -21,9 +21,9 @@ class FoterComponent extends Component {
                         <Col>Home Laser Printer Toner DeskJet/InkJet Printer Cartridge Dot Printer Ribbon Photocopy Toner আমাদের কথা</Col>
                         <Col>
                             <Row xs="auto">
-                                <Col><FontAwesomeIcon className='StyleYuobe' icon={faYoutube} /></Col>
-                                <Col><FontAwesomeIcon className='StyleFac' icon={faFacebook} /></Col>
-                                <Col><FontAwesomeIcon icon={faEnvelope} /></Col>
+                                <Col><a href="https://www.youtube.com/channel/UCsIqmHn-lMDGA71TyZblrNw"><FontAwesomeIcon className='StyleYuobe' icon={faYoutube} /></a> </Col>
+                                <Col><a href="https://www.facebook.com/"><FontAwesomeIcon className='StyleFac' icon={faFacebook} /></a></Col>
+                               <Col><FontAwesomeIcon icon={faEnvelope} /></Col>
                             </Row>
                             <br/>
                             <p>01715-298047</p>
@@ -41,8 +41,8 @@ class FoterComponent extends Component {
                         <Col></Col>
                         <Col>
                             <div>
-                                <FontAwesomeIcon className='StyleYuobe' icon={faYoutube} />&nbsp;&nbsp;&nbsp;
-                                <FontAwesomeIcon className='StyleFac' icon={faFacebook} />&nbsp;&nbsp;&nbsp;
+                                <a href="https://www.youtube.com/channel/UCsIqmHn-lMDGA71TyZblrNw"><FontAwesomeIcon className='StyleYuobe' icon={faYoutube} /></a>&nbsp;&nbsp;&nbsp;
+                                <a href="https://www.facebook.com/"><FontAwesomeIcon className='StyleFac' icon={faFacebook} /></a>&nbsp;&nbsp;&nbsp;
                                 <FontAwesomeIcon icon={faEnvelope} />
                             </div>
                         </Col>
